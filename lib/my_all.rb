@@ -11,3 +11,4 @@ def my_all?(collection)
   end
 end
 
+block_return_values
