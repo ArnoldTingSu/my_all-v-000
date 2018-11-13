@@ -9,6 +9,7 @@ def my_all?(collection)
     i+=1
     binding.pry
   end
+  
 end
 
 block_return_values
